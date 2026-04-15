@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "dev.majanito.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MultiplayerScreenMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
