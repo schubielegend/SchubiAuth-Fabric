@@ -11,10 +11,9 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 | Minecraft Version | Branch     | Link                                                                 |
 |-------------------|------------|----------------------------------------------------------------------|
-| 1.21.11            | `main`     | [View Branch](https://github.com/schubielegend/SchubiAuth-Fabric/releases/tag/1.21.11SessionIDLogin)     |
-|-------------------|------------|----------------------------------------------------------------------|
 | 26.x            | `main`     | Comming soon!   |
-|-------------------|------------|----------------------------------------------------------------------|
+| 1.21.11            | `main`     | [View Branch](https://github.com/schubielegend/SchubiAuth-Fabric/releases/tag/1.21.11SessionIDLogin)     |
+------|
 ---
 
 ## ✨ Features
